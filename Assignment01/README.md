@@ -16,4 +16,8 @@ Nathan Koketsu | DH 110 | Spring 2023
 9. Help users recognize, diagnose, and recover from errors: pair recognizable visuals with plain language to help users identify errors and take next steps to solve the problem
 10. Help and documentation: provide concise documentation to help users take concrete steps for a task
 
-### Review of 
+### Review of Nielsen's [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
+1 Rating: *Cosmetic problem only: need not be fixed unless extra time is available on project*
+2 Rating: *Minor usability problem: fixing this should be given low priority*
+3 Rating: *Major usability problem: important to fix, so should be given high priority*
+
