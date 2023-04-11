@@ -23,5 +23,3 @@ Nathan Koketsu | DH 110 | Spring 2023
 | 2 | *Minor usability problem: fixing this should be given low priority* |
 | 3 | *Major usability problem: important to fix, so should be given high priority* |
 
-
-
