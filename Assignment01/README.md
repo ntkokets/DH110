@@ -29,49 +29,74 @@ Note: Severity ratings are provided in parentheses next to each usability issue 
 ## App 1: [Errands To-Do List](https://apps.apple.com/us/app/errands-to-do-list/id318095638)
 [Errands To-Do List](https://apps.apple.com/us/app/errands-to-do-list/id318095638) is an app that combines checklists, scheduling, alerts, a calendar view, and other features to help users navigate day-to-day tasks, available on both iPad and iPhone for Apple users.
 
+### Heuristic Evaluation
 
-1. Visibility of system status
+#### 1. Visibility of system status
+*
    
-2. Match between system and the real world
+#### 2. Match between system and the real world
+* 
     
-3. User control and freedom
+#### 3. User control and freedom
+* 
     
-4. Consistency and standards
+#### 4. Consistency and standards
+* 
    
-5. Error prevention
+#### 5. Error prevention
+* 
    
-6. Recognition rather than recall
+#### 6. Recognition rather than recall
+* 
    
-7. Flexibility and efficiency of use
+#### 7. Flexibility and efficiency of use
+* 
    
-8. Aesthetic and minimalist design
+#### 8. Aesthetic and minimalist design
+* 
 
-9. Help users recognize, diagnose, and recover from errors
+#### 9. Help users recognize, diagnose, and recover from errors
+* 
 
-10. Help and documentation
+#### 10. Help and documentation
+*
 
-#### Overall Assessment 
+### Overall Assessment 
 
 
-## Website 2:
-1. Visibility of system status
+## Website 2: [FitDay](https://www.fitday.com/)
+[FitDay](https://www.fitday.com/) is a website
+
+### Heuristic Evaluation
+
+#### 1. Visibility of system status
+*
    
-2. Match between system and the real world
+#### 2. Match between system and the real world
+* 
     
-3. User control and freedom
+#### 3. User control and freedom
+* 
     
-4. Consistency and standards
+#### 4. Consistency and standards
+* 
    
-5. Error prevention
+#### 5. Error prevention
+* 
    
-6. Recognition rather than recall
+#### 6. Recognition rather than recall
+* 
    
-7. Flexibility and efficiency of use
+#### 7. Flexibility and efficiency of use
+* 
    
-8. Aesthetic and minimalist design
+#### 8. Aesthetic and minimalist design
+* 
 
-9. Help users recognize, diagnose, and recover from errors
+#### 9. Help users recognize, diagnose, and recover from errors
+* 
 
-10. Help and documentation
+#### 10. Help and documentation
+*
 
-#### Overall Assessment 
+### Overall Assessment 
