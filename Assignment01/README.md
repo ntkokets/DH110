@@ -1,6 +1,6 @@
 # Centralized Activities and Communication for Families
 ## Assignment 1: Heuristic Evaluation
-Today, a wide variety of technology is available to stay in contact with loved ones, but this can often be a point of frustration and confusion for older generations, as switching between apps can be unrealistic for those living at long distances from each other. For instance, if family members want to participate in an online activity together, they may need to access a website outside of their video conferencing app, which can be daunting for older generations while younger, more technologically-savvy family members may grow impatient with these interactions. The goal of this project is to create a centralized way for all members of a family to easily communicate via messaging or video conferencing and access other apps such as games or entertainment that connect to this experience, making group activities simpler for long-distance families.
+Over time, food and cuisine has continued to bring families together and allow for genuine connections between family members. The opportunity to cook together and share recipes is one that can be enjoyed by both younger and older members of families, representing a passing on of traditions and culture. At the same time, there is growing consciousness of diet-related preferences and conditions experienced within families as well as a variety of ingredients that can be purchased to accommodate these preferences or needs. While the Internet makes it possible to search recipes that use ingredients and groceries according to these dietary needs, the interpersonal family dynamic of sharing recipes can often be lost in the midst of constantly searching for new ones. The goal of this project is to provide a streamlined, simple way to accommodate the specific diets of family members in tandem with the sharing of culinary traditions within families.
 
 Nathan Koketsu | DH 110 | Spring 2023
 
@@ -26,8 +26,9 @@ Nathan Koketsu | DH 110 | Spring 2023
 
 Note: Severity ratings are provided in parentheses next to each usability issue observed.
 
-## Website 1: [Gather](https://www.gather.town/)
-Gather allows multiple long-distance users to create avatars to simulate interaction with other people in an online environment. By default, users are able to approach other avatars, activating video conferencing and messaging options, and administrators of a space can include activities such as games within certain areas of the virtual space.
+## App 1: [Errands To-Do List](https://apps.apple.com/us/app/errands-to-do-list/id318095638)
+[Errands To-Do List](https://apps.apple.com/us/app/errands-to-do-list/id318095638) is an app that combines checklists, scheduling, alerts, a calendar view, and other features to help users navigate day-to-day tasks, available on both iPad and iPhone for Apple users.
+
 
 1. Visibility of system status
    
