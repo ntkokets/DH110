@@ -10,7 +10,31 @@ Errands To-Do List is an app that combines checklists, scheduling, alerts, a cal
 * Some actions, such as viewing all tasks on the app calendar, only have one pathway, which can be inefficient
 
 ### Methods
-The test was conducted in another student's dormitory room
+The test was conducted in another student's dormitory room, though we were the only people in the room for the majority of the assessment, constituting a portable test lab. We used Zoom to record the pilot test as well as Google Forms to create the usability test survey. This pilot test allowed me to test the setting and materials implemented during the usability test.
+
+The participant walked through the following steps:
+* Introduction and Explanation
+* Informed Consent
+* Background Questions
+* Pre-Test Questions
+* Tasks
+* Post-Test Questionnaire
+* System Usability Scale
+* Product Satisfaction Card
+* Demographic Information
+
+The following was measured using 7-point Likert scales:
+* Ease of use based on app appearance
+* Trustworthiness of the app based on appearance
+* Ease of completing tasks
+* Time to complete tasks
+* Likelihood of doing tasks
+* Complexity of the app
+* Need for support when using the app
+* Integration of features
+* Consistency within the app
+* Ease of learning to use the app
+* Confidence using the app
 
 ### Test Materials (Google Form)
 [Google Form link](https://docs.google.com/forms/d/1zK4t8rj7DQTRwoVmqo7MJ2sReqKF24T6QvyywYFFAw4/edit)
