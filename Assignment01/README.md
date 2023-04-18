@@ -1,4 +1,4 @@
-# Centralized Activities and Communication for Families
+# Diet-Conscious Sharing of Food Traditions
 ## Assignment 1: Heuristic Evaluation
 Over time, food and cuisine has continued to bring families together and allow for genuine connections between family members. The opportunity to cook together and share recipes is one that can be enjoyed by both younger and older members of families, representing a passing on of traditions and culture. At the same time, there is growing consciousness of diet-related preferences and conditions experienced within families as well as a variety of ingredients that can be purchased to accommodate these preferences or needs. While the Internet makes it possible to search recipes that use ingredients and groceries according to these dietary needs, the interpersonal family dynamic of sharing recipes can often be lost in the midst of constantly searching for new ones. The goal of this project is to provide a streamlined, simple way to accommodate the specific diets of family members in tandem with the sharing of culinary traditions within families.
 
