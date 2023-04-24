@@ -4,6 +4,7 @@ Nathan Koketsu | DH 110 | Spring 2023
 
 ### Introduction
 
+### Research Methods
 
 ### User Research Guide
 [Research Script Link](https://docs.google.com/document/d/1zO0nbDOMFNUVtGcs7a_ccTqCjiW5f6GxtygapdvpehA/edit?usp=sharing)
