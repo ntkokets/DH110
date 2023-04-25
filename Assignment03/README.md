@@ -10,7 +10,7 @@ Nathan Koketsu | DH 110 | Spring 2023
 [Research Script Link](https://docs.google.com/document/d/1zO0nbDOMFNUVtGcs7a_ccTqCjiW5f6GxtygapdvpehA/edit?usp=sharing)
 
 ### Data
-Video File Link
+[Video File Link](https://drive.google.com/file/d/1ZzGsyl6YBei5xzFbfDdraOVIq_LBHwlx/view?usp=sharing)
 
 ### Interview Transcript and Observation Notes
 [Video Transcript]()
