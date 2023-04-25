@@ -3,13 +3,23 @@
 Nathan Koketsu | DH 110 | Spring 2023
 
 ### Introduction
+#### Research Goals
 Through this project, the main activity supported is the interconnectivity between family members through eating together. This fits with a need for love and belonging within the human experience by encouraging a strengthening of family relationships through shared cuisine. Knowing that many families have members with certain dietary restrictions, these restrictions can pose a potential barrier for this type of connection, especially in larger family gatherings where not all members are familiar with each other's dietary needs. While not being able to eat a family member's cooking is not catastrophic, it can easily be a small way of feeling less connected to them.
 
 Currently, the task of creating connection through eating together can be solved by different methods. For example, if family members know that they will need to accommodate certain dietary restrictions, they can buy pre-processed foods that clearly align with these restrictions. However, this can remove the aspect of cooking for one another, making the prepared dish or item lacking in any cultural elements that function within the family. Rather than prepare the dish themselves, family members would be restricted to another company's creation in this case. An alternative solution is to bring simple prepared cuisine such as fruits or vegetables to these gatherings, which can be easier to compare with known dietary restrictions. For instance, if a family member needs to eat low cholesterol and is allergic to nuts, one could prepare fruits and vegetables using simple techniques such as chopping or roasting to match these needs. However, family members may want to prepare more complicated recipes, where the task of accommodating dietary restrictions can be more difficult. These tend to venture beyond short ingredient lists.
 
 Another solution that can apply is to make a known or new recipe with ingredient substitions or omissions. However, even this has limitations. There are some ingredients that may actually break someone's dietary restrictions without the preparer's knowledge. If they want to take extra care, the preparer could research each ingredient individually, but this can prove tedious and would like need to be done repeatedly at successive family gatherings. This process also relies heavily on the preparer's capabilities at research and intuition to be able to know their ingredients well, something that is not true for everyone.
 
+#### Target Users
+
+
+
 ### Research Methods
+My plan is to apply an interview in context as part of my contextual inquiry. While I will be performing overt observations during the interview process, the task of preparing a grocery list is not a task where I can easily wait for participants to begin naturally and observe them in the process of making one. Therefore, I plan to conduct an interview that allows the participant to be in their normal workplace for this task while proposing a hypothetical scenario related to problems that can arise when writing a grocery list for a family gathering. This will involve a task of preparing a grocery list for a family gathering where people with specific dietary restrictions are in attendance. In proposing a scenario, I intend to observe the participant's use of their existing tools and methods to solve a realistic problem. For some parts of the process, such as determining details about the scenario, the process used in the interview will not be reflective of an actual situation, which would involve reaching out to other family members.
+
+I will be conducting the interview virtually using Zoom and record the meeting and transcription, combining overt and participatory aspects. The participant will be in a location fitting of where they may create a grocery list, namely at home, since they have access to resources like books or other materials that they might use to work in a scenario like this. Since it is a virtual meeting, I will take notes on Google Docs as the interview proceeds. While I can take some observations of the participant's environment, it is more difficult to do so in a virtual format, and the most attention will be on their responses to the activies organized. I will answer any questions related to the hypothetical scenario.
+
+The scenario is as follows: at a large family gathering with attendees of various ages, there is one person who is allergic to gluten, two others who are vegetarian, and one person who is allergic to shellfish. There are no restrictions on the particular cuisine of the dish prepared.
 
 ### User Research Guide
 [Research Script Link](https://docs.google.com/document/d/1zO0nbDOMFNUVtGcs7a_ccTqCjiW5f6GxtygapdvpehA/edit?usp=sharing)
