@@ -15,7 +15,7 @@ Nathan Koketsu | DH 110 | Spring 2023
 #### Tools used by the participant
 For the task at hand, the participant uses the following tools:
 <p align="center">
-  <img src="C:\Users\User\Desktop\Data Recovery\ntkok\Documents\UCLA\2022-23 classes\Spring 2023 classes\DH 110\Errands screenshot.jpg" alt="Errands screenshot" height = "300px"/>
+  <img src="https://user-images.githubusercontent.com/130080795/234233501-9e1bd5c4-8d35-4307-9e63-f3d608364d93.jpg" alt="Errands screenshot" height = "300px"/>
 </p>
 
 ### Interview Transcript and Observation Notes
