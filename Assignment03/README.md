@@ -25,6 +25,8 @@ For the task of creating family grocery lists, the participant regularly uses th
 </p>
 
 > *The second is the Errands To-Do List app, available on the iPhone. While the app has a relatively simple design for performing the specific tasks desired by the participant, he notably created a personal system for using the app that was not built into it.*
+
+
 > *Additionally, the participant specified that he would choose to use either text messaging or email apps, whichever works for contacting a specific family member, to clarify their dietary restrictions. This is especially relevant for extended family members the participant does not know as closely and, therefore, has not frequently cooked for. He also mentioned that he would likely use an app such as Google or Safari to learn more about new ingredients for particularly unfamiliar or serious dietary restrictions. Within the confines of this study, where the participant did not have another family member to contact and did not lack familiarity with any of the ingredients applied to solve the task, none of these were ultimately applied toward his solution.* 
 
 ### Interview Transcript and Observation Notes
