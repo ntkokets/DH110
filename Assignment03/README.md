@@ -13,7 +13,7 @@ Nathan Koketsu | DH 110 | Spring 2023
 Video File Link
 
 ### Interview Transcript and Observation Notes
-[Video Transcript]
+[Video Transcript]()
 
 [Observation Notes](https://docs.google.com/document/d/19m810ZN86nx8r3Oq1NkDb3GRC22yRzJbk1tVEKjh3IM/edit?usp=sharing)
 
