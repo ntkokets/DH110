@@ -12,5 +12,5 @@ The proposed app would aid in users' creation of grocery lists for the purposes 
 * **Ingredient Substitute Recommendations:** According to the dietary restrictions attached to a grocery list, either a user's or their friends' restrictions, the app will flag groceries that conflict with these restrictions. When selecting the flagged grocery item for more information, 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/130080795/235662659-d66dbb58-75da-46ae-b410-72c1f3665326.png" alt="Test screenshot" height = "300px"/>
+  <img src="https://user-images.githubusercontent.com/130080795/235663047-d4db78c1-e624-40e8-acf4-4a574362c18b.png" alt="Test screenshot" height = "300px"/>
 </p>
