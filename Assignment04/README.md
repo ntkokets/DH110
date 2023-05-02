@@ -9,4 +9,8 @@ The proposed app would aid in users' creation of grocery lists for the purposes 
 
 ### Proposed Tasks (Features)
 * **Sharing of Dietary Restrictions:** By creating an account on the app, users can update their individual profiles with their specific dietary restrictions. The app will then allow accounts to "friend" one another, making accounts aware of their friends' dietary restrictions as they might pertain to grocery shopping. This impacts features such as the creation of grocery lists since users can add their friend accounts to the list, allowing the app to automatically compare friends' dietary restrictions to the items on the list. The app's database includes different types of dietary restrictions such as food allergies and vegan, vegetarian, gluten-free, and low-sodium diets.
-* **Ingredient Substitute Recommendations:** According to the dietary restrictions attached to a grocery list, either a user's or their friends' restrictions, the app will flag groceries that conflict with these restrictions. When selecting the flagged grocery item for more information,  
+* **Ingredient Substitute Recommendations:** According to the dietary restrictions attached to a grocery list, either a user's or their friends' restrictions, the app will flag groceries that conflict with these restrictions. When selecting the flagged grocery item for more information, 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/130080795/235662659-d66dbb58-75da-46ae-b410-72c1f3665326.png" alt="Test screenshot" height = "300px"/>
+</p>
