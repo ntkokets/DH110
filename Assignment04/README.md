@@ -13,6 +13,7 @@ The proposed app would aid in users' creation of grocery lists for the purposes 
 
 ### Personas and Empathy Maps
 
+Melissa - The Culinary Adventurer
 <p align="center">
   <img src="https://user-images.githubusercontent.com/130080795/235695708-6ef28066-7338-40ff-9048-3586bb6a0efc.png" alt="Melissa persona" />
 </p>
@@ -21,6 +22,7 @@ The proposed app would aid in users' creation of grocery lists for the purposes 
   <img src="https://user-images.githubusercontent.com/130080795/235703791-222a249c-42dc-4429-913f-581ade580a0b.png" alt="Melissa empathy map" />
 </p>
 
+Courtney - The Family-Oriented Professional
 <p align="center">
   <img src="https://user-images.githubusercontent.com/130080795/235704147-de3d946d-fd8b-46e8-a903-0695e35e7ec1.png" alt="Courtney persona" />
 </p>
