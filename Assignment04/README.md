@@ -32,3 +32,11 @@ Courtney - The Family-Oriented Professional
 </p>
 
 ### Scenarios and Journey Maps
+
+Melissa's Scenario 
+
+> *This scenario will center the ingredient substitution recommendation feature of the proposed app*
+
+At the beginning of the week, Melissa is interested in cooking a new recipe for her family. She is wary of creating a meal that her children will like this time since they didn't finish what was prepared for them last week during dinner. The previous recipe, a pasta casserole with gluten-free pasta and soy-free substitutions for other ingredients, had not only cost more but also tasted noticeably different than the recipe without substitutions. While she reasoned that children do not always like their dinner food, as they are both at middle-school age, she finds that simply trying to replace ingredients with their gluten-free or soy-free equivalents does not usually yield approval from them. The response to the casserole was not an isolated occurrence. 
+
+In talking with her spouse, they were unable to think of good ways to make new recipes while avoiding this problem. For instance, there are many vegetables, meats, and other ingredients that both of her children can eat, and the children like many of them. However, this is a relatively limited list considering that she has been cooking for multiple years and finds herself using this very list in every recipe. Wanting the kids to explore new but healthy options, Melissa is motivated to make new types of cuisine for future meals, but she has felt barred from entire categories. She wants to experiment with new flavors but has become averse to recipes that she cannot seem to make without buying special gluten-free or soy-free substitutions, which she does not prefer. 
