@@ -24,4 +24,12 @@ Videos of prototype testing are [here](https://drive.google.com/drive/folders/10
 
 ### Reflection
 
-This 
+This was a helpful exercise in understanding the work that is needed in creating an interface for an app, and I learned a lot from seeing the tester experience the prototype himself. While I was aware of how I would navigate through the app, this exercise allowed me to clarify aspects of the wireflows that worked intuitively and those that needed revision.
+
+**Task 1: Adding new friends to profile**
+
+> *
+
+**Task 2: Linking friends to an existing grocery list**
+
+**Implementing a suggested grocery for a grocery list**
