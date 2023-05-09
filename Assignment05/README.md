@@ -24,12 +24,16 @@ Videos of prototype testing are [here](https://drive.google.com/drive/folders/10
 
 ### Reflection
 
-This was a helpful exercise in understanding the work that is needed in creating an interface for an app, and I learned a lot from seeing the tester experience the prototype himself. While I was aware of how I would navigate through the app, this exercise allowed me to clarify aspects of the wireflows that worked intuitively and those that needed revision.
+This was a helpful exercise in understanding the work that is needed in creating an interface for an app, and I learned a lot from seeing the tester experience the prototype himself. While I was aware of how I would navigate through the app, this exercise allowed me to clarify aspects of the wireflows that worked intuitively and those that needed revision. The test user was able to complete all tasks but also provided helpful insights to the process.
 
 **Task 1: Adding new friends to profile**
 
-> *
+> Fortunately, this task proved to be relatively intuitive for the user. There was one point where the user did not know where to navigate after selecting the search bar for adding new friends, which was mostly caused by a missing wireflow arrow. In the future, I would make sure to implement a clearly-visible keyboard with a search button to ensure that the app appeals to their familiarity in using app search bars. 
 
 **Task 2: Linking friends to an existing grocery list**
 
+> This task yielded significant feedback. For one, the user found that there was not a supported way to link friends to an existing list that does not already have them linked. Additionally, he found that it would be difficult to manage a longer listing of linked friends without search bars for the listing of existing linked friends and the "link new friends" feature. For future iterations, I would implement a button to link new friends, which may be accessed through a separate page to edit all details of the grocery list. Additionally, I would add a search bar for the listing of linked friends and the feature for linking new friends.
+
 **Implementing a suggested grocery for a grocery list**
+
+> The user was able to navigate this task relatively easily, though he had suggestions for the grocery list interface. For example, he mentioned that it could be useful if a user could know whether a grocery item is restricted for another user before committing it to the list. I think this could be difficult to revise since the app would likely need to read the full word input to the list in order to determine whether it is restricted. However, I could potentially implement an autofill type of feature that includes this preliminary restriction information.
