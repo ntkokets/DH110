@@ -20,7 +20,7 @@ These tasks were based on findings from contextual inquiry and usability testing
 
 Videos of prototype testing are [here](https://drive.google.com/drive/folders/10SIknLv--9SRCWhXdw9CYMAaxvbhBO-5?usp=sharing), with one video for each task.
 
-[PDF of wireframes and wireflows](https://github.com/ntkokets/DH110-NathanKoketsu/files/11431220/DH.110.-.Low.Fidelity.Prototype.pdf)
+Download [PDF of wireframes and wireflows](https://github.com/ntkokets/DH110-NathanKoketsu/files/11431220/DH.110.-.Low.Fidelity.Prototype.pdf)
 
 ### Reflection
 
