@@ -56,7 +56,7 @@ Gutter: 10
   <img src="https://github.com/ntkokets/DH110-NathanKoketsu/assets/130080795/238868ec-6299-42fd-8aa0-30fb90d54ee1" alt="Fonts screenshot" height = "400px"/>
 </p>
 
-While I knew I wanted a sans serif font, I wanted one that could be readable, even when in a smaller size, while also feeling more intentionally chosen for the app rather than being a default font.
+While I knew I wanted a sans serif font for simplicity, I wanted one that could be readable, even in a smaller size, while also feeling more intentionally chosen for the app rather than being a default font.
 
 **Iterations**
 
@@ -106,12 +106,28 @@ I wanted to find a color scheme that would reflect simplicity, since one of the 
   <img src="https://github.com/ntkokets/DH110-NathanKoketsu/assets/130080795/2c9f51ca-37a7-44e1-8243-231d14df14f1" alt="Color 1 screenshot" height = "500px"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/ntkokets/DH110-NathanKoketsu/assets/130080795/2387ecea-419b-41f0-bf71-94d07a4d8549" alt="Color 1 A11y screenshot light" height = "400px"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/ntkokets/DH110-NathanKoketsu/assets/130080795/434e278f-e9c9-4879-8147-2ee7defa432f" alt="Color 1 A11y screenshot dark" height = "400px"/>
+</p>
+
 > I found that this color scheme is simple in a good way, and the green, gray, and off-white colors are appropriate to an app that focuses on grocery shopping. The green is noticeable while being somewhat calming, which works for the app’s goal. There are not any gradients used, which fits the idea of making grocery shopping more efficient and simple.
 
 > Additionally, both the light and dark mode displays pass the A11y color contrast checks.
 
 <p align="center">
   <img src="https://github.com/ntkokets/DH110-NathanKoketsu/assets/130080795/bc571b3d-1a69-4560-80c8-51b04f821f8b" alt="Color 2 screenshot" height = "500px"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/ntkokets/DH110-NathanKoketsu/assets/130080795/34f7d4d3-729c-40ff-ac57-35b24c9b4e0f" alt="Color 2 A11y screenshot light" height = "400px"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/ntkokets/DH110-NathanKoketsu/assets/130080795/182aedbd-4cd1-451d-ae6a-17ad7bb31376" alt="Color 2 A11y screenshot dark" height = "400px"/>
 </p>
 
 > This color scheme has subtle differences from the first color scheme since the background color and gray used are only slightly different than the first color scheme. This is mainly because, with a relatively simple color scheme with basic secondary colors, it does not appear very different. The primary difference is in the focus color, which is orange-brown rather than green.
@@ -127,7 +143,9 @@ The link to a video of the second impression test is [here](https://drive.google
 
 **Impression Test 1**
 
-
+<p align="center">
+  <img src="https://github.com/ntkokets/DH110-NathanKoketsu/assets/130080795/3cec02da-6d81-4525-97ce-c95a734b7b62" alt="Impression test 1 screenshot" height = "400px"/>
+</p>
 
 The above design was shown to the first impression test participant over Zoom, who provided the feedback below.
 
@@ -135,6 +153,29 @@ The above design was shown to the first impression test participant over Zoom, w
 * While it was not necessarily a critique, the participant commented that the color scheme brought a coffee shop to mind, which is different than the grocery shopping theme intended
 * The participant also commented that more colors and images should be added, which was a good indicator to substitute the “no profile photo” image for real profile photos. This way, there could be a better sense of how the app would look with colors
 * While the chosen wireframe is meant to showcase much of the app’s overall interface, it didn’t seem like a main page
+
+**Impression Test 2**
+
+<p align="center">
+  <img src="https://github.com/ntkokets/DH110-NathanKoketsu/assets/130080795/bea6b4f4-bbb9-4d97-bf65-19d090393548" alt="Impression test 2 screenshot" height = "400px"/>
+</p>
+
+The above design was shown to the second impression test participant on an iPad. Notably, this was intended to be more complete by including the top iOS display and profile photos, which have their own colors. While this was not fully accurate to the true appearance of the interface, the participant provided the feedback below.
+
+* The participant liked the “cleaner” layout and the simple green and off-white color scheme
+* The participant noted that the “+” button and back button drew the most attention from the interface and that the profile photos tended to draw some attention away from the rest of the interface
+* Recommended making the profile photos smaller to draw less attention, though this could be impacted by the size of the iPad used for the test
+* Liked the use of rounded shapes rather than sharp corners, as it was easier to look at
+* Noted that the text next to the smaller profile photos within each box created a crowded feel. Recommended potentially adjusting the height of the boxes and the size and boldness of the text. A potential fix could also be to rearrange the text and profile photos so they are no longer on the same line.
+* The participant also indicated that there could be more fit within the display so that there is not wasted space 
+
+**Impact on Final Design**
+
+<p align="center">
+  <img src="https://github.com/ntkokets/DH110-NathanKoketsu/assets/130080795/ca4adc69-734e-4512-aceb-46e0725b386a" alt="Impression test impact" height = "400px"/>
+</p>
+
+The feedback received during the two impression tests helped to shape the final design above. As shown, the finalized design has some alterations in the layout and typography, though the color scheme and shapes have remained the same.
 
 ### Final Design Choosing Process
 Ultimately, the final design for the interface was chosen based on multiple factors. For example, in choosing the layout, the selected design best separated the different sections of the interface for organizational purposes while creating the most effective guideline for text on the page, as the list boxes only have text on the left-hand side while featuring profile pictures and icons. The chosen typography maximized readibility while including greater uniqueness to the app itself. The shape chosen was the most effective balance between the harshness of sharp corners and the cramped feel of corners that were too rounded. This matched findings from the impression tests. Finally, the color scheme was mainly chosen based on how well the colors matched the theme of the app, as some color schemes seemed less evocative of a grocery list app and related more to other ideas.
