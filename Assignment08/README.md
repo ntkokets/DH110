@@ -124,6 +124,8 @@ Links to high-fidelity prototypes since there are different iterations:
 
 ### Pitch Video
 
+[Link](https://www.youtube.com/watch?v=EOHRg_l1RNc) to pitch video
+
 ### Conclusion
 
 One of my most important takeaways from this process was the importance of involving other opinions throughout the process of designing an app. There were many instances where feedback from others drew my attention to needing changes in the app that I did not previously notice. Additionally, I better understood the reasons behind the use of multiple design iterations since I found necessary updates to the design after creating my first high-fidelity prototype, even after the previous steps from beforehand. Often, some become most visible once users can interact with the app itself, and there are new features that will need to be further researched and tested if the app expands its functionality. This means that a UX team needs to continually improve and conduct testing on their designs, which is very insightful to experience firsthand. 
